@@ -92,7 +92,8 @@ README.md
 - **Utilities:** intl (date/time formatting), firebase_core
 
 ## License
-MIT License
+
+MIT © 2021 Mohammad Hamza Piracha
 
 ## Author
 
