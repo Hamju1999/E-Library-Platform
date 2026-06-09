@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582067257197",
+    "project_id": "e-lib-13eb4",
+    "storage_bucket": "e-lib-13eb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582067257197:android:9b74867205438f9d0fe464",
+        "android_client_info": {
+          "package_name": "com.hamju.skylibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582067257197-7a14q83glie04iiueb6mmfi1r2vo2prb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbObDuZZUfwIKfVnMrKrx67pamK3upudU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582067257197-7a14q83glie04iiueb6mmfi1r2vo2prb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
