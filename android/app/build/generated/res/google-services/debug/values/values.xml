@@ -2,7 +2,7 @@
 <resources>
     <string name="default_web_client_id" translatable="false">582067257197-7a14q83glie04iiueb6mmfi1r2vo2prb.apps.googleusercontent.com</string>
     <string name="gcm_defaultSenderId" translatable="false">582067257197</string>
-    <string name="google_api_key" translatable="false">AIzaSyAbObDuZZUfwIKfVnMrKrx67pamK3upudU</string>
+    <string name="google_api_key" translatable="false"></string>
     <string name="google_app_id" translatable="false">1:582067257197:android:9b74867205438f9d0fe464</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAbObDuZZUfwIKfVnMrKrx67pamK3upudU</string>
     <string name="google_storage_bucket" translatable="false">e-lib-13eb4.appspot.com</string>
