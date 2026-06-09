@@ -93,7 +93,7 @@ README.md
 
 ## License
 
-MIT © 2021 Mohammad Hamza Piracha
+[MIT](./LICENSE) © 2021 Mohammad Hamza Piracha
 
 ## Author
 
